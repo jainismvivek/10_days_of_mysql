@@ -79,11 +79,7 @@ SELECT name,price
   ORDER BY price ASC
   LIMIT 1;
   
---SQL SERVER SOLUTION (T-SQL)
-SELECT TOP 1 name
-            ,price
-FROM Products
-ORDER BY price ASC
+
   
 
 -- 1.16 Select the name of each manufacturer along with the name and price of its most expensive product.
