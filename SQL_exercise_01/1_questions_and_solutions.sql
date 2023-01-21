@@ -1,6 +1,3 @@
-
-
-
 -- 1.1 Select the names of all the products in the store.
 select Name from Products;
 
